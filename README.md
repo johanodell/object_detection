@@ -1,2 +1,2 @@
 # tech_update_object_detection
-object detection model to be used at tech update
+object detection model used at tech update 2023 
